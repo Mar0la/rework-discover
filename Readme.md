@@ -1,5 +1,3 @@
-# Discover
-
 <img alt="Ignite" src="assets/banner.png" />
 
 <h3 align="center">
